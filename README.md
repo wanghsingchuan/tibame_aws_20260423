@@ -1,5 +1,4 @@
 # Tibame AWS Training Course
-[Practice](https://github.com/wanghsingchuan/tibame_aws_20260423/blob/main/tibame_20260423.ipynb)
 
 參考 [Teacher's Code Resource](https://github.com/Elwing-Chou/tibame20260423/tree/main)
 
