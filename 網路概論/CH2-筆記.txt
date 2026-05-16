@@ -1,0 +1,3 @@
+https://docs.google.com/document/d/1v_a0Rn_xuNqeWoUdgKLzVqgE8Ufp5ISUzit18w6kOPs/edit?tab=t.0
+網路基礎知識 https://labex.io/lesson/tcp-ip-model
+Command Line https://labex.io/lesson/the-shell
